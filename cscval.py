@@ -23,7 +23,7 @@ process.source = cms.Source("PoolSource",
 )
 )
 
-
+#The fileNames option uses 'file:' for local files, while those contained elsewhere may use their path names 
 
 
 
